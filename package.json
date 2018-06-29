@@ -1,0 +1,14 @@
+{
+  "name": "calculator-app",
+  "version": "1.0.0",
+  "description": "Simple Command line calculator app",
+  "main": "index.js",
+  "scripts": {
+    "test": "give valid input"
+  },
+  "author": "Abhik",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^12.0.1"
+  }
+}
